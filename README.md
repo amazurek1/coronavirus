@@ -2,6 +2,7 @@
 
 # Spread of the coronavirus epidemic as covered by the news media using NLP
 ## Aviva Mazurek & Ben Johnson-Laird
+[Full ppt link] (https://github.com/amazurek1/coronavirus/blob/master/coronavirus.pptx)
 
 # Methodology & Goals
 
